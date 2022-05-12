@@ -1,0 +1,29 @@
+.block-left{
+    background: lightskyblue;
+    width: 50%;
+    float: left;
+}
+.block-right{
+    background: rgb(149, 201, 100);
+    width: 50%;
+    float: left;
+}
+h1{
+    color: blue;
+    margin-left: 512px;
+}
+h2{
+    margin-left: 490px;
+}
+h3{
+    margin-left: 540px;
+    margin-top: -10px;
+}
+.title{
+    background: rgb(236, 233, 233);
+
+}
+
+.row{
+    margin-bottom: -15px;
+}
